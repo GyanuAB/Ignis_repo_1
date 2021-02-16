@@ -1,0 +1,70 @@
+.blue{
+    color:grey;
+    top:0;
+    max-block-size: 30px;
+    overflow: hidden;
+}
+
+.custom{
+    color:rgb(230, 86, 33);
+    font-size:large;
+    font-weight:bold;
+}
+
+
+.a{
+    color:grey;
+}
+.b{
+    color:grey;
+}
+.c{
+    color:grey;
+}
+.ist{
+    font-weight: bold;
+    color:rgb(3, 3, 59);
+    margin-left: 15px
+    
+}
+
+.imgedit{
+    height: 100px;
+    width: 150px;
+    margin-top: 0px;
+    margin-left: 0px
+}
+.jumbotron{
+    margin-left: 30px;
+    width: 500px;
+    height: 150px;
+}
+
+.abcd{
+    margin-top: 30px;
+}
+
+.abc{
+    margin-top: 40px;
+}
+
+.ab{
+    margin-top: 100px;
+    font-size:23px;
+}
+
+.body{
+
+    margin-left: 100px;
+}
+
+.aaa{
+    width: 150px;
+}
+.bb{
+    font-weight:normal;
+    font-size: 25px;
+    color:rgb(221, 41, 41);
+    text-shadow: whitesmoke;
+    
+}
